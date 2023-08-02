@@ -6,7 +6,7 @@ import os
 
  
 
-# to add data to file 
+# to add data to file
 
 def to_add_data(): 
 
